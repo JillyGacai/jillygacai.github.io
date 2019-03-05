@@ -19,10 +19,9 @@
 - [精通] JQuery + Bootstrap
 - [精通] ES5/ES6 + Less 
 - [精通] NodeJS + Express
-- [熟悉] Spring/SpringMVC/MyBatis + MySQL操作
+- [熟悉] Spring/SpringMVC/MyBatis + MySQL
 - [熟悉] Php，基于Code-Igniter框架开发
 - [熟悉] Webpack/Grunt打包工具
-- [熟悉] 数据结构和SQL操作
 - [了解] GIT和SVN版本管理工具
 - [了解] 微信小程序原生、mpvue开发
 - [了解] Nginx负载均衡和代理配置
@@ -195,7 +194,7 @@
 2. [负责] 对接快钱接口实现支付业务；
 3. [参与] 官网和后台研发；
 
-> 使用技术：
+> **使用技术：**
 > PHP(5.x)、SmartyTemplate、MySQL、JQuery、Bootstrap等
 
 ---
