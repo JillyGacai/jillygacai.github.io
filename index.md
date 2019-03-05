@@ -1,37 +1,213 @@
-## Welcome to GitHub Pages
+# 个人信息
 
-You can use the [editor on GitHub](https://github.com/JillyGacai/jyf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 基本信息
 
-### Markdown
+- 基本信息：蒋烨锋，男，31岁
+- 工作年限：9年
+- 期望职位：Web前端研发工程师
+- 期望薪资：20-23K（税前）
+- 期望城市：杭州
+- 到岗时间：随时
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## 专业技能
 
-# Header 1
-## Header 2
-### Header 3
+- [精通] Vue/Vuex/Vue-Router + ElementUI
+- [精通] JQuery + Bootstrap
+- [精通] ES5/ES6 + Less 
+- [精通] NodeJS + Express
+- [熟悉] Spring/SpringMVC/MyBatis + MySQL操作
+- [熟悉] Php，基于Code-Igniter框架开发
+- [熟悉] Webpack/Grunt打包工具
+- [熟悉] 数据结构和SQL操作
+- [了解] GIT和SVN版本管理工具
+- [了解] 微信小程序原生、mpvue开发
+- [了解] Nginx负载均衡和代理配置
+- [了解] Docker容器化部署
 
-- Bulleted
-- List
+> PHP研发工作经验4年，前端研发4年，JavaWeb研发1.5年
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## 工作经历
 
-[Link](url) and ![Image](src)
-```
+#### 上海切近信息科技有限公司（2018.02 — 2019.01）
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Web前端研发工程师**
 
-### Jekyll Themes
+主要项目：
+- 贴近：基于城市的社群交友和内容分发平台；
+- 48应援社：明星粉丝圈互动平台；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JillyGacai/jyf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+个人工作：
+1. [独立负责] 小程序开发；
+2. [负责] 多个管理后台开发
+3. [负责] 活动相关功能和页面开发；
+4. [参与] 项目和人员管理；
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 杭州云动科技有限公司（2015.07 — 2018.02）
+
+**Web前端研发工程师/Java研发工程师**
+
+外包于中国移动旗下咪咕数媒集团，主要项目：
+- 咪咕文学：2000万MAU阅读平台作者端
+- 咪咕学堂：在线视频和图文教育平台
+
+个人工作：
+1. [负责] 咪咕文学前端研发；
+2. [负责] 相关管理后台业务研发；
+3. [参与] 活动页面开发；
+
+#### 北京信云互联科技有限公司（2015.01 - 2015.07）
+
+**Web前端研发工程师**
+
+开发面向企业的即时通讯类协同工具，个人主要负责模块：
+1. [独立负责] 运营管理后台、数据分析平台；
+2. [参与] 网页版即时通讯模块；
+
+#### 杭州酷跃科技有限公司 - 新浪微米项目组（2013.1 - 2014.12）
+
+**Web前端研发工程师**
+
+新浪全资子公司，个人主要工作：
+
+1. [负责] CMS/OMS管理后台；
+2. [参与] 网页版即时通讯模块；
+3. [参与] H5活动和展示页面；
+
+#### 杭州钧拓科技有限公司（2010.6 - 2013.6）
+
+**PHP研发工程师**
+
+主要项目：鼎牛竞技，棋牌竞技比赛平台，提供台球、德州扑克等游戏。
+个人全面参与平台开发，实现官网、用户、帮派、比赛等功能，并对接快钱接口实现支付业务。
+
+
+---
+
+## 主要项目经历
+
+#### 贴近项目管理后台和相关活动（2018.5 - 2019.1）
+
+**项目介绍：**
+
+负责公众平台、运营管理后台的研发；参与世界杯赛事活动相关内容开发。
+
+**个人工作：**
+1. 管理后台：从框架搭建到上线，独立完成整个项目的前端工作；
+2. 定制化模块：富文本编辑器、图片爬虫、文件压缩上传组件等；
+3. 参与世界杯赛事活动相关响应式H5页面开发；
+4. 负责部分前端项目管理、人员管理；
+
+> **使用技术：**
+> NodeJS、Express、JQuery、Bootstrap、Nginx、Docker
+
+#### 48应援设（2018.2 - 2018.5）
+
+**项目介绍：**
+
+基于明星粉丝圈的内容推荐分发和用户互动平台。
+
+**个人工作：**
+1. [独立负责]小程序开发；
+
+> **使用技术：**
+> 小程序原生开发、MPVUE小程序框架
+
+
+#### 咪咕文学（2015.12 - 2018.2）
+
+**项目介绍：**
+
+中国移动旗下咪咕阅读的作者端，为作者和编审人员提供投稿、审核、结算、管理、数据查阅一体化服务。
+
+**工作内容：**
+
+1. [独立负责] 作者平台前端开发；
+2. [负责] 作者稿酬和阅读数据的算法和展示；
+3. [参与] 管理后台投稿审核模块开发；
+4. [独立负责] 浙江省版权局咪咕服务站的前后台开发；
+5. [参与] H5响应式活动页面开发；
+6. [参与] 前端人员管理和工作分配；
+
+> **使用技术：**
+> SSM框架、MySQL、Redis、JQuery、Bootstrap、Echarts、DWZ框架
+
+#### 咪咕学堂（2015.7 - 2015.12）
+
+**项目介绍：**
+
+咪咕数媒的在线视频教育、即时互动类学习产品。
+
+**工作内容：**
+
+1. [独立负责] 内容运营管理后台；
+2. [独立负责] 互动管理后台；
+3. [独立负责] H5响应式学堂小组功能；
+
+> **使用技术：**
+> NodeJS、Express、JQuery、Bootstrap、Grunt
+
+#### Grouk企业协同通信（2015.1 - 2015.7）
+
+**项目介绍：**
+
+为企业打造的即时通讯类协作工具。
+
+**工作内容：**
+
+1. [独立负责] 内容管理后台；
+2. [参与] 数据分析后台；
+
+> **使用技术：**
+> NodeJS、Express、JQuery、Bootstrap、AngularJS、HighCharts、Docker
+
+#### 新浪微米（2013.1 - 2014.12）
+
+**项目功能：**
+
+基于即时通讯和群组的社交软件，包括APP、网页端、CMS/OMS管理后台、H5活动页面等。
+
+**个人工作：**
+1. [负责] CMS和OMS管理后台；
+2. [负责] 网页版即时通讯功能研发、多种消息处理；
+3. [负责] 网页版用户信息、通讯录模块研发；
+4. [参与] H5响应式活动页面搭建；
+5. [参与] 优化前端页面性能；
+
+> **使用技术：**
+> Php CI框架、JQuery、Bootstrap、AngularJS等
+
+#### 鼎牛竞技
+
+**项目介绍：**
+
+专业棋牌竞技比赛平台，包括台球、德州扑克等游戏，为用户提供在线竞技和娱乐。
+
+**个人工作：**
+
+1. [负责] 用户比赛、帮派相关基础功能；
+2. [负责] 对接快钱接口实现支付业务；
+3. [参与] 官网和后台研发；
+
+> 使用技术：
+> PHP(5.x)、SmartyTemplate、MySQL、JQuery、Bootstrap等
+
+---
+
+## 教育背景
+
+- **大连理工大学**：2013 - 2015，网络工程，本科
+- **杭州电子科技大学**：2007 - 2010，软件技术，大专
+
+---
+
+## 联系方式
+
+- 手机/微信：15958047778
+- 邮箱：jillyandkai@qq.com
