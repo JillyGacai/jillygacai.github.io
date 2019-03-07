@@ -7,7 +7,7 @@
 - 基本信息：蒋烨锋，男，31岁
 - 工作年限：9年
 - 期望职位：Web前端研发工程师
-- 期望薪资：20-23K（税前）
+- 期望薪资：18-20K（税前）
 - 期望城市：杭州
 - 到岗时间：随时
 
@@ -20,7 +20,7 @@
 - [精通] ES5/ES6 + Less 
 - [精通] NodeJS + Express
 - [熟悉] Spring/SpringMVC/MyBatis + MySQL
-- [熟悉] Php，基于Code-Igniter框架开发
+- [熟悉] Php（5.x），基于Code-Igniter，ThinkPHP框架开发
 - [熟悉] Webpack/Grunt打包工具
 - [了解] GIT和SVN版本管理工具
 - [了解] 微信小程序原生、mpvue开发
